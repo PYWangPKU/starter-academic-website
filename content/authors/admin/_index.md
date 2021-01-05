@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Peiyu Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: City University of Hong Kong
+  url: https://www.cityu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include wave propagation, near-filed microwave NDT, 3D super resolution reconstruction and computational imaging.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nondestructive Testing and Quantitative Evaluation
+- Computational Imaging and High Performance Imaging
+- Near-field Microwave 3D Super Resolution Imaging
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Solid Mechanics
+    institution: Peking University
+    year: 2013-2019
+  - course: BSc in Engineering Mechanics
+    institution: Wuhan University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
