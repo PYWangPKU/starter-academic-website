@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Peiyu Wang
+title: Dr. Peiyu Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role:
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,7 @@ bio: My research interests include wave propagation, near-filed microwave NDT, 3
 
 # Interests to show in About widget
 interests:
-- Nondestructive Testing and Quantitative Evaluation
+- Microwave Nondestructive Testing and Quantitative Evaluation
 - Computational Imaging and High Performance Imaging
 - Near-field Microwave 3D Super Resolution Imaging
 
@@ -30,7 +30,7 @@ education:
     year: 2013-2019
   - course: BSc in Engineering Mechanics
     institution: Wuhan University
-    year: 2009
+    year: 2009-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,8 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Peiyu Wang is a researcher of near field microwave detection and imaging at City University of Hong Kong. His research interests include wave propagation, near-filed microwave NDT, 3D super resolution reconstruction and computational imaging.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
